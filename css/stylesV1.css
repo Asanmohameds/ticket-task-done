@@ -1,0 +1,17 @@
+body {
+    font-family: montserrat;
+}
+
+h1 {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.btnDiv {
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    float:right;
+    margin-right: 2%;
+    font-weight: bold;
+    font-size: 2rem;
+}
